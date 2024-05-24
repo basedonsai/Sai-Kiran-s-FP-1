@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container">
         <div className="row text-center">
           <div className="col-md-4 mb-3">
-            <h6 className="my-2">MentorConnect.vnrvjiet</h6>
+            <h6 className="my-2">MentorConnect</h6>
           </div>
           <div className="col-md-4 mb-3">
             <p className="my-2">
